@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(algorithm2
         main.cpp
-        binsearch/10815.cpp
+        "binsearch/위치 확인/10815.cpp"
 
 )
