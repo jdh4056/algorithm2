@@ -1,3 +1,6 @@
-//
-// Created by 장동현 on 25. 7. 8.
-//
+#include<iostream>
+using namespace std;
+
+int main() {
+
+}
