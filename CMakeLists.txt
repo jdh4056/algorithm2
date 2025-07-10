@@ -8,5 +8,6 @@ add_executable(algorithm2
         "binsearch/위치 확인/10815.cpp"
         bronze_3/8932.cpp
         "binsearch/위치 확인/2343.cpp"
+        bronze_4/27110.cpp
 
 )
