@@ -10,7 +10,6 @@ bool isPossible(int mid) {
             sum += (a[i] - mid);
         }
     }
-
     return sum >= m;
 }
 
