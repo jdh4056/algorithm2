@@ -12,5 +12,6 @@ add_executable(algorithm2
         "binsearch/최대최소값 찾기/2805.cpp"
         "binsearch/최대최소값 찾기/2110.cpp"
         "binsearch/특정 위치/12738.cpp"
+        "binsearch/특정 위치/12015.cpp"
 
 )
