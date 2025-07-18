@@ -15,5 +15,6 @@ add_executable(algorithm2
         "binsearch/특정 위치/12015.cpp"
         bronze_3/6830.cpp
         bronze_3/11648.cpp
+        bronze_3/9550.cpp
 
 )
