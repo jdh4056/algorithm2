@@ -29,5 +29,6 @@ add_executable(algorithm2
         bronze_3/11966.cpp
         bronze_3/13163.cpp
         bronze_3/20361.cpp
+        bronze_3/21312.cpp
 
 )
